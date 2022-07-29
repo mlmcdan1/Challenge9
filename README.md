@@ -5,4 +5,4 @@ a README.md file based off users input.
 
 
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+[README.md Generator Video](https://watch.screencastify.com/v/ix1rWxxpNOVi7cH2XZwQ)
